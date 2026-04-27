@@ -147,6 +147,7 @@ search. Decime exactamente:
 - Headline nuevo (≤220 caracteres, con keywords del target)
 - About nuevo
 - Descripción nueva de cada experiencia + 5 skills tagged por rol
+- Education completa con descripción y acreditaciones relevantes
 - Top 10 skills globales (ordenadas — las primeras 3 son las que
   LinkedIn destaca como "top skills")
 - Languages
